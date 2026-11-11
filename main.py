@@ -4,8 +4,8 @@
 
 def sumar_dos_numeros():
     # input() recibe texto; float() permite operar con enteros y decimales.
-    primer_numero = float(input("Ingrese el primer número: "))
-    segundo_numero = float(input("Ingrese el segundo número: "))
+    primer_numero = float(input())
+    segundo_numero = float(input())
     
     # El operador + suma los dos valores ingresados.
     resultado = primer_numero + segundo_numero
